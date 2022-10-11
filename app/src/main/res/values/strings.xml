@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Conversor</string>
+    <string name="button">Botó</string>
+    <string name="conversor_d_unitats_de_temps">Conversor d\'unitats de temps</string>
+    <string name="minuts">Minuts</string>
+    <string name="segons">Segons</string>
+    <string name="horas">Hores</string>
+    <string name="anys">Anys</string>
+    <string name="textview">TextView</string>
+    <string name="En_segons">En segons</string>
+    <string name="En_minuts">En minuts</string>
+    <string name="En_horas">En Hores</string>
+    <string name="En_anys">En anys</string>
+
+</resources>
